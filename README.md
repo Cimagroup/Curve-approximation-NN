@@ -1,0 +1,1 @@
+# Curve-approximation-based-on-Neural-Networks-forgeneral-classes-of-totally-positive-rational-bases
