@@ -4,3 +4,5 @@ In this repository, the code for the experimentation is provided. Different curv
 
 1. In AAA the code for Table A is provided.
 2. The architecture and training implementation is described in the jupyter notebook.
+
+The implementation uses Tensorflow 2.0.
