@@ -52,7 +52,8 @@ class first_layer(layers.Layer):
         self.units = units
         self.activation = activation
     def build(self, input_shape):
-        self.w = self.add_weight(shape=(1,self.units), initializer='ones',trainable=True) 
+        initializer1 = tf.keras.initializers.RandomUniform(0,1)
+        self.w = self.add_weight(shape=(1,self.units), initializer=initializer1,trainable=True) 
     def call(self,inputs):
         l = len(t)
         u = [ncr(n-1,i)*self.w[0][i]*(f(inputs)**i)*(g(inputs)**(n-1-i)) for i in range(n)] 
