@@ -6,3 +6,5 @@ In this repository, the code for the experimentation is provided. Different curv
 2. The architecture and training implementation is described in the [jupyter notebook](https://github.com/Cimagroup/Curve-approximation-based-on-Neural-Networks-forgeneral-classes-of-totally-positive-rational-bases/blob/main/Neural%20network%20implementation.ipynb). (Can be seen in markdown version [here](https://github.com/Cimagroup/Curve-approximation-based-on-Neural-Networks-forgeneral-classes-of-totally-positive-rational-bases/blob/main/Neural%20network%20implementation/Neural%20network%20implementation.md)).
 
 The implementation uses Tensorflow 2.0.
+
+Paper: Gonzalez-Diaz R., Mainar E., Paluzo-Hidalgo E., Rubio B., Neural-network-based curve fitting using totallypositive rational bases, 2020. Submitted
