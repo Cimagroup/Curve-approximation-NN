@@ -7,4 +7,4 @@ In this repository, the code for the experimentation is provided. Different curv
 
 The implementation uses Tensorflow 2.0.
 
-Paper: Gonzalez-Diaz R., Mainar E., Paluzo-Hidalgo E., Rubio B., Neural-network-based curve fitting using totallypositive rational bases, 2020. Submitted
+![paper_banner](paper_banner.PNG)
